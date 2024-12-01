@@ -49,4 +49,19 @@ export const data = [
     "title": "Finish the project report",
     "completed": false
   },
+  {
+    "id": 11,
+    "title": "Water the garden",
+    "completed": true
+  },
+  {
+    "id": 12,
+    "title": "Feed the cat",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "title": "Go out for a walk",
+    "completed": false
+  },
 ]
